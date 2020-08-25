@@ -70,7 +70,7 @@ export interface Injectable {
    * - 'root' : The application-level injector in most apps.
    * - 'platform' : A special singleton platform injector shared by all
    * applications on the page.
-   * - 'any' : Provides a unique instance in each lazy loaded module while all eagerly loaded
+   * - 'any' : Provides a unique instance in each lazy loaded module while all eagerly loaded.
    * modules share one instance.
    *
    */
